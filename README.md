@@ -2,7 +2,7 @@
 
  **`Desenvolvedor Fullstack`**
 
-Meu nome é João Vitor Dos Santos, acadêmico de Análise e Desenvolvimento de Sistemas na Unideau em Passo Fundo - RS. Neste perfil estão todos meus projetos pessoais bem como meus projetos testes de estudo, também podem me acompanhar pelo meu perfil no instagram <br/>"[João Santos](https://www.instagram.com/san.tos_joao/)".
+Meu nome é João Vitor Dos Santos, acadêmico de Análise e Desenvolvimento de Sistemas na Unideau em Passo Fundo - RS. Neste perfil estão todos meus projetos pessoais bem como meus projetos testes de estudo, também podem me acompanhar pelo meu perfil no instagram. <br/>"[João Santos](https://www.instagram.com/san.tos_joao/)".
 
    <p align="left">
       <a href="https://github.com/ojoaovsantos?tab=followers">
